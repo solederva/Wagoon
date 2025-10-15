@@ -44,13 +44,10 @@ def generate_base_ean(prefix_digits: str = None) -> str:
 
 
 def pretty_write(elem: ET.Element, path: str):
-    s = ET.tostring(elem, encoding='utf-8')
-    parsed = minidom.parseString(s)
-    pretty_xml = parsed.toprettyxml(indent='  ', encoding='utf-8').decode('utf-8')
-    # Remove extra blank lines
-    lines = [line for line in pretty_xml.split('\n') if line.strip()]
-    with open(path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(lines))
+    # Use ET.indent for clean formatting without extra blank lines
+    ET.indent(elem, space='  ', level=0)
+    tree = ET.ElementTree(elem)
+    tree.write(path, encoding='utf-8', xml_declaration=True)
 
 
 def main():
