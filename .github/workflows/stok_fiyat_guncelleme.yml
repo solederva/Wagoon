@@ -1,0 +1,29 @@
+name: Stok ve Fiyat Güncelleme
+
+on:
+  schedule:
+    # Hafta içi 08:00-13:30 arası her 30 dakika
+    - cron: '0,30 8-13 * * 1-5'
+    # Hafta içi 14:00 son güncelleme
+    - cron: '0 14 * * 1-5'
+    # Hafta sonu 09:00 tek çekim
+    - cron: '0 9 * * 6,0'
+  workflow_dispatch:
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu checkout et
+        uses: actions/checkout@v4
+      - name: Python ortamını hazırla
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Bağımlılıkları yükle (varsa)
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Stok ve fiyat güncelleme scriptini çalıştır
+        run: |
+          python update_stock_price.py
+        # Burada kendi scriptinizi veya komutunuzu yazabilirsiniz
