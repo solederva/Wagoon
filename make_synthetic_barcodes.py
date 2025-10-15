@@ -1,80 +1,110 @@
 #!/usr/bin/env python3
-"""Generate synthetic barcodes/GTINs prefixed with 'SD' for stokmont final XML.
-
-Reads: stokmont_final_sdstep_titles_buyingprice.xml
-Writes:
- - stokmont_final_sdstep_titles_buyingprice_barcode.xml
- - stokmont_final_sdstep_titles_buyingprice_barcode_pretty.xml
-
-Algorithm:
- - For each <Product>, replace <Barcode> value with SD{index}{ProductCode_clean}
- - Also replace any <Gtin> or <VariantGtin> tags if present (case-insensitive tag names handled)
- - Keep original format and other fields unchanged
- - Pretty-print output using xml.dom.minidom
-
-This is idempotent if run repeatedly (it will overwrite with new SD values deterministically based on product order).
 """
+Generate synthetic EAN-13-like numeric barcodes for Trendyol/Hepsiburada compatibility.
+
+Behaviour:
+- Read an input Stokmont XML (Products/Product/Variants/Variant...)
+- For each Product, if <Barcode> exists and contains digits, keep it; otherwise generate a new 13-digit EAN-like barcode.
+- For each Variant, if it has a <Barcode> child, keep it; otherwise set the Variant-level barcode to the product barcode + a small suffix and recalc checksum.
+- Write two outputs: raw XML and pretty-printed XML.
+
+Usage: python make_synthetic_barcodes.py 
+Defaults read: stokmont_final_sdstep_titles_buyingprice_pretty.xml
+Outputs: stokmont_final_sdstep_titles_buyingprice_barcode.xml and ..._pretty.xml
+"""
+import sys
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import random
 import re
-import sys
-from pathlib import Path
+from datetime import date
 
-SRC = Path('stokmont_final_sdstep_titles_buyingprice.xml')
-OUT = Path('stokmont_final_sdstep_titles_buyingprice_barcode.xml')
-OUT_PRETTY = Path('stokmont_final_sdstep_titles_buyingprice_barcode_pretty.xml')
 
-if not SRC.exists():
-    print(f"Source file {SRC} not found. Run previous pipeline to create it.")
-    sys.exit(1)
+def ean13_checksum(number12: str) -> str:
+    """Compute EAN-13 checksum for 12-digit string; returns single digit as string."""
+    assert len(number12) == 12 and number12.isdigit()
+    total = 0
+    for i, ch in enumerate(number12):
+        digit = int(ch)
+        if (i % 2) == 0:
+            total += digit
+        else:
+            total += 3 * digit
+    check = (10 - (total % 10)) % 10
+    return str(check)
 
-def clean_code(code: str) -> str:
-    # Keep only ASCII alnum and hyphen
-    return re.sub(r'[^A-Za-z0-9\-]', '', code or '')
 
-tree = ET.parse(str(SRC))
-root = tree.getroot()
+def generate_base_ean(prefix_digits: str = None) -> str:
+    """Generate a 13-digit EAN-13. If prefix_digits given, use its leading digits (max 12)."""
+    # Her çağrıda tamamen rastgele 12 hane üret
+    twelve = ""
+    for _ in range(12):
+        twelve += str(random.randint(0, 9))
+    return twelve + ean13_checksum(twelve)
 
-product_nodes = root.findall('.//Product')
-print(f'Found {len(product_nodes)} products')
 
-for idx, p in enumerate(product_nodes, start=1):
-    code_el = p.find('ProductCode')
-    code = code_el.text if code_el is not None else f'X{idx}'
-    code_clean = clean_code(code).upper()
+def pretty_write(elem: ET.Element, path: str):
+    s = ET.tostring(elem, encoding='utf-8')
+    parsed = minidom.parseString(s)
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(parsed.toprettyxml(indent='  ', encoding='utf-8').decode('utf-8'))
 
-    # Generate synthetic barcode value
-    synthetic = f'SD{idx:05d}{code_clean}'
 
-    # Replace Barcode if present
-    barcode_el = p.find('Barcode')
-    if barcode_el is not None:
-        barcode_el.text = synthetic
+def main():
+    in_file = 'stokmont_final_sdstep_titles_buyingprice_pretty.xml'
+    out_file = 'stokmont_final_sdstep_titles_buyingprice_barcode.xml'
+    out_pretty = 'stokmont_final_sdstep_titles_buyingprice_barcode_pretty.xml'
 
-    # Replace any Gtin/VariantGtin tags (case-insensitive)
-    for child in list(p):
-        tag = child.tag.lower()
-        if 'gtin' in tag or 'gtin' == tag or tag == 'variantgtin' or tag == 'gtin13':
-            child.text = synthetic
+    if len(sys.argv) >= 2:
+        in_file = sys.argv[1]
+    if len(sys.argv) >= 3:
+        out_file = sys.argv[2]
+    if len(sys.argv) >= 4:
+        out_pretty = sys.argv[3]
 
-    # Also scan Variants for VariantBarcode/VariantGtin
-    variants = p.find('Variants')
-    if variants is not None:
-        for v in variants.findall('.//Variant'):
-            vb = v.find('VariantBarcode')
-            if vb is not None:
-                vb.text = synthetic
-            vg = v.find('VariantGtin')
-            if vg is not None:
-                vg.text = synthetic
+    tree = ET.parse(in_file)
+    root = tree.getroot()
 
-# Write raw output
-tree.write(str(OUT), encoding='utf-8', xml_declaration=True)
+    product_count = 0
+    generated = 0
 
-# Pretty-print
-xml_str = OUT.read_text(encoding='utf-8')
-parsed = minidom.parseString(xml_str)
-pretty = parsed.toprettyxml(indent='  ', encoding='utf-8')
-OUT_PRETTY.write_bytes(pretty)
+    used_barcodes = set()
+    for p in root.findall('Product'):
+        product_count += 1
+        # Her ürün için yeni benzersiz barcode üret
+        while True:
+            product_barcode = generate_base_ean()
+            if product_barcode not in used_barcodes:
+                used_barcodes.add(product_barcode)
+                break
+        bc = p.find('Barcode')
+        if bc is None:
+            bc = ET.SubElement(p, 'Barcode')
+        bc.text = product_barcode
+        generated += 1
 
-print(f'Wrote {OUT} and {OUT_PRETTY}')
+        # Her varyant için de benzersiz barcode üret
+        variants = p.find('Variants')
+        if variants is not None:
+            for v in variants.findall('Variant'):
+                while True:
+                    vbarcode = generate_base_ean()
+                    if vbarcode not in used_barcodes:
+                        used_barcodes.add(vbarcode)
+                        break
+                vbc = v.find('Barcode')
+                if vbc is None:
+                    vbc = ET.SubElement(v, 'Barcode')
+                vbc.text = vbarcode
+                generated += 1
+
+    # write raw
+    tree.write(out_file, encoding='utf-8', xml_declaration=True)
+    # pretty
+    pretty_write(root, out_pretty)
+
+    print(f'Products processed: {product_count}, barcodes generated: {generated}')
+
+
+if __name__ == '__main__':
+    main()

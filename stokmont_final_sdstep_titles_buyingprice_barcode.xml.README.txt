@@ -1,0 +1,1 @@
+Bu dosya, Trendyol ve Hepsiburada için uygun, tamamen rastgele ve benzersiz EAN-13 barkodlar içeren Stokmont XML'idir. Her ürün ve varyant için yeni barkodlar üretilmiştir. Buybox'a takılmamak için her çalıştırmada barkodlar değişir.
