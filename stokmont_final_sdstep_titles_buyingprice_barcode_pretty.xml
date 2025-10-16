@@ -16,6 +16,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003508_wagoon-wg500-kopekbaligi-beyaz-unisex-tam-ortopedik-terlik-shark-slides-cocuk.jpeg?sd=Y1HE3BZU</Image4>
     <Image5>https://www.bayiwagoon.com/image/catalog/wagoon/0003510_wagoon-wg500-kopekbaligi-beyaz-unisex-tam-ortopedik-terlik-shark-slides-cocuk.jpeg?sd=Y1HE3BZU</Image5>
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -139,6 +140,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003519_wagoon-wg500-kopekbaligi-haki-unisex-tam-ortopedik-terlik-shark-slides.jpeg?sd=TRRD7YID</Image4>
     <Image5>https://www.bayiwagoon.com/image/catalog/wagoon/0003518_wagoon-wg500-kopekbaligi-haki-unisex-tam-ortopedik-terlik-shark-slides.jpeg?sd=TRRD7YID</Image5>
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -262,6 +264,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003538_wagoon-wg500-kopekbaligi-mor-unisex-tam-ortopedik-terlik-shark-slides.jpeg?sd=8TOSV60I</Image4>
     <Image5>https://www.bayiwagoon.com/image/catalog/wagoon/0003540_wagoon-wg500-kopekbaligi-mor-unisex-tam-ortopedik-terlik-shark-slides.jpeg?sd=8TOSV60I</Image5>
     <Brand>SDSTEP</Brand>
+    <Color>Mor</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -385,6 +388,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003527_wagoon-wg500-kopekbaligi-pembe-unisex-tam-ortopedik-terlik-shark-slides.jpeg?sd=YQN6A15Q</Image4>
     <Image5>https://www.bayiwagoon.com/image/catalog/wagoon/0003529_wagoon-wg500-kopekbaligi-pembe-unisex-tam-ortopedik-terlik-shark-slides.jpeg?sd=YQN6A15Q</Image5>
     <Brand>SDSTEP</Brand>
+    <Color>Pembe</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -508,6 +512,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003549_wagoon-wg500-kopekbaligi-siyah-unisex-tam-ortopedik-terlik-shark-slides.jpeg?sd=2YSMKYPH</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -631,6 +636,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -700,6 +706,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -769,6 +776,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -838,6 +846,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 5</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -907,6 +916,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -976,6 +986,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1054,6 +1065,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1123,6 +1135,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1192,6 +1205,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1261,6 +1275,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1330,6 +1345,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Lacivert</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1399,6 +1415,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1468,6 +1485,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Kırmızı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1537,6 +1555,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1606,6 +1625,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Sarı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1675,6 +1695,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1744,6 +1765,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1813,6 +1835,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1882,6 +1905,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Kırmızı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -1951,6 +1975,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2020,6 +2045,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2089,6 +2115,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Mavi</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2158,6 +2185,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2227,6 +2255,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002202_wagoon-wg012-bej-komur-suet-uzun-bagcikli-bot.jpeg?sd=J44QOA4N</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Krem</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2296,6 +2325,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002231_wagoon-wg012-beyaz-parasut-uzun-bagcikli-bot.jpeg?sd=EJL30Y14</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2365,6 +2395,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002204_wagoon-wg012-gri-komur-suet-uzun-bagcikli-bot.jpeg?sd=91WGPVV0</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>gri 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2434,6 +2465,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2503,6 +2535,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002200_wagoon-wg012-komur-cilt-uzun-bagcikli-bot.jpeg?sd=01SBLXTR</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2572,6 +2605,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002160_wagoon-wg012-siyah-cilt-uzun-bagcikli-bot.jpeg?sd=KU1JDKZ6</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2641,6 +2675,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2710,6 +2745,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2779,6 +2815,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002551_wagoon-wg015-beyaz-erkek-casual-ayakkabi.jpeg?sd=TKH12F2E</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2848,6 +2885,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002540_wagoon-wg015-gri-erkek-casual-ayakkabi.jpeg?sd=NEUJTHVQ</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2917,6 +2955,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002516_wagoon-wg015-haki-erkek-casual-ayakkabi.jpeg?sd=K6GHCTUN</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -2986,6 +3025,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002523_wagoon-wg015-laci-erkek-casual-ayakkabi.jpeg?sd=DPEF5OIR</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Lacivert</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3055,6 +3095,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002546_wagoon-wg015-siyah-erkek-casual-ayakkabi.jpeg?sd=J2M9VH53</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3124,6 +3165,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002532_wagoon-wg015-taba-erkek-casual-ayakkabi.jpeg?sd=4FTZC7TK</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3193,6 +3235,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3262,6 +3305,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3331,6 +3375,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3400,6 +3445,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3469,6 +3515,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3538,6 +3585,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3607,6 +3655,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3676,6 +3725,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Çok Renkli</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3745,6 +3795,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3814,6 +3865,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3883,6 +3935,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>gri 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -3952,6 +4005,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4021,6 +4075,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>turuncu</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4090,6 +4145,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4159,6 +4215,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Mavi</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4228,6 +4285,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4297,6 +4355,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4366,6 +4425,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Kot Mavi</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4435,6 +4495,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4504,6 +4565,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4573,6 +4635,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4642,6 +4705,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>gri 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4711,6 +4775,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4780,6 +4845,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4849,6 +4915,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4918,6 +4985,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -4987,6 +5055,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5056,6 +5125,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5125,6 +5195,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5194,6 +5265,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5263,6 +5335,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5332,6 +5405,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5401,6 +5475,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5470,6 +5545,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5539,6 +5615,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5608,6 +5685,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5677,6 +5755,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Lacivert</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5746,6 +5825,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5815,6 +5895,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5884,6 +5965,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -5953,6 +6035,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6022,6 +6105,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6091,6 +6175,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6160,6 +6245,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6229,6 +6315,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6298,6 +6385,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6367,6 +6455,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6436,6 +6525,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6505,6 +6595,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6574,6 +6665,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6643,6 +6735,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6712,6 +6805,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6781,6 +6875,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6850,6 +6945,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6919,6 +7015,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -6988,6 +7085,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7057,6 +7155,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 5</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7126,6 +7225,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 6</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7195,6 +7295,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7264,6 +7365,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7333,6 +7435,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7402,6 +7505,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7471,6 +7575,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7540,6 +7645,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7609,6 +7715,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Lacivert</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7678,6 +7785,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7747,6 +7855,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7816,6 +7925,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>taba 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7885,6 +7995,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -7954,6 +8065,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8023,6 +8135,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8092,6 +8205,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8161,6 +8275,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8230,6 +8345,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8299,6 +8415,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8368,6 +8485,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8437,6 +8555,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>taba 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8506,6 +8625,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 4</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8575,6 +8695,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8644,6 +8765,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8713,6 +8835,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8782,6 +8905,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8851,6 +8975,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8920,6 +9045,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -8989,6 +9115,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9058,6 +9185,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9127,6 +9255,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9196,6 +9325,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9265,6 +9395,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9334,6 +9465,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9403,6 +9535,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9472,6 +9605,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9541,6 +9675,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9610,6 +9745,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9679,6 +9815,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9748,6 +9885,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 6</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9817,6 +9955,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9886,6 +10025,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -9955,6 +10095,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10024,6 +10165,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10093,6 +10235,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10162,6 +10305,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10231,6 +10375,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10300,6 +10445,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10369,6 +10515,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002871_wagoon-wg060-bej-triko-babet-erkek-casual-ayakkabi.jpeg?sd=4WPKWBVG</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10438,6 +10585,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002887_wagoon-wg060-beyaz-triko-babet-erkek-casual-ayakkabi.jpeg?sd=JO2UVSTD</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10507,6 +10655,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10576,6 +10725,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002899_wagoon-wg060-komur-triko-babet-erkek-casual-ayakkabi.jpeg?sd=A02O50OF</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10645,6 +10795,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002895_wagoon-wg060-siyah-triko-babet-erkek-casual-ayakkabi.jpeg?sd=7I0Q6G0X</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10714,6 +10865,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10783,6 +10935,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10852,6 +11005,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10921,6 +11075,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -10990,6 +11145,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11059,6 +11215,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11128,6 +11285,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11197,6 +11355,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11266,6 +11425,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11335,6 +11495,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11404,6 +11565,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11473,6 +11635,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11542,6 +11705,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11611,6 +11775,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11680,6 +11845,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11749,6 +11915,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11818,6 +11985,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11887,6 +12055,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -11956,6 +12125,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12034,6 +12204,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12112,6 +12283,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Lacivert</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12190,6 +12362,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Sarı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12259,6 +12432,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12337,6 +12511,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12406,6 +12581,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12475,6 +12651,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12544,6 +12721,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12613,6 +12791,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12682,6 +12861,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12751,6 +12931,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>taba 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12820,6 +13001,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002456_wagoon-wg094-beyaz-cilt-erkek-casual-ayakkabi.jpeg?sd=7NOC480M</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12889,6 +13071,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -12958,6 +13141,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002433_wagoon-wg094-beyaz-siyah-erkek-casual-ayakkabi.jpeg?sd=US1BNTKE</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13027,6 +13211,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002447_wagoon-wg094-komur-cilt-erkek-casual-ayakkabi.jpeg?sd=6RDK49KI</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 4</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13096,6 +13281,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002413_wagoon-wg094-komur-rugan-erkek-casual-ayakkabi.jpeg?sd=DZGLQA08</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13165,6 +13351,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002441_wagoon-wg094-siyah-cilt-erkek-casual-ayakkabi.jpeg?sd=5X46RVHO</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13234,6 +13421,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002401_wagoon-wg094-siyah-rugan-erkek-casual-ayakkabi.jpeg?sd=JJU94SH7</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13303,6 +13491,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13372,6 +13561,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002393_wagoon-wg094-taba-siyah-erkek-casual-ayakkabi.jpeg?sd=W66TCX0J</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>taba 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13441,6 +13631,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13510,6 +13701,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13579,6 +13771,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13648,6 +13841,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13717,6 +13911,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13786,6 +13981,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13855,6 +14051,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13924,6 +14121,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -13993,6 +14191,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14062,6 +14261,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14131,6 +14331,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14200,6 +14401,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14287,6 +14489,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14374,6 +14577,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14443,6 +14647,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14512,6 +14717,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14581,6 +14787,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003236_wagoon-wg160-mavi-erkek-casual-ayakkabi.jpeg?sd=PSPGNBAW</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Mavi</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14650,6 +14857,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003228_wagoon-wg160-sari-erkek-casual-ayakkabi.jpeg?sd=WJH9BVC6</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Sarı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14719,6 +14927,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003258_wagoon-wg160-siyah-erkek-casual-ayakkabi.jpeg?sd=I2MAK4JE</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14788,6 +14997,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14857,6 +15067,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14926,6 +15137,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -14995,6 +15207,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15064,6 +15277,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15133,6 +15347,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15202,6 +15417,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15271,6 +15487,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003439_wagoon-wg162-beyaz-gri-ortopedik-taban-erkek-casual-ayakkabi.jpeg?sd=KTI4QV3B</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15340,6 +15557,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15409,6 +15627,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003430_wagoon-wg162-beyaz-sax-ortopedik-taban-erkek-casual-ayakkabi.jpeg?sd=ZYP6QOMD</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15478,6 +15697,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003455_wagoon-wg162-beyaz-siyah-ortopedik-taban-erkek-casual-ayakkabi.jpeg?sd=GPLNW2U3</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15547,6 +15767,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0003461_wagoon-wg162-komur-beyaz-ortopedik-taban-erkek-casual-ayakkabi.jpeg?sd=0VI1BEU1</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15616,6 +15837,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15685,6 +15907,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15754,6 +15977,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15823,6 +16047,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Kırmızı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15892,6 +16117,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Kırmızı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -15961,6 +16187,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16030,6 +16257,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16099,6 +16327,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16170,6 +16399,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Krem</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16249,6 +16479,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16328,6 +16559,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16406,6 +16638,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16475,6 +16708,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16544,6 +16778,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16613,6 +16848,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16682,6 +16918,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16751,6 +16988,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16820,6 +17058,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>turuncu</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16889,6 +17128,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Krem</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -16958,6 +17198,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17027,6 +17268,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Sarı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17096,6 +17338,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17165,6 +17408,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Çok Renkli</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17234,6 +17478,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 6</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17312,6 +17557,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17381,6 +17627,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17450,6 +17697,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>taba 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17519,6 +17767,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17588,6 +17837,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17666,6 +17916,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17735,6 +17986,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17804,6 +18056,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Bordo</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17873,6 +18126,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -17942,6 +18196,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Krem</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18011,6 +18266,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18080,6 +18336,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Kot Mavi</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18149,6 +18406,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Lacivert</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18218,6 +18476,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18287,6 +18546,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18356,6 +18616,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18425,6 +18686,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18494,6 +18756,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Lacivert</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18563,6 +18826,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18633,6 +18897,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18702,6 +18967,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18771,6 +19037,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Taba</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18840,6 +19107,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>taba 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18909,6 +19177,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002571_wagoon-wg506-beyaz-erkek-saracli-casual-ayakkabi.jpeg?sd=P4EUQB8P</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -18978,6 +19247,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002595_wagoon-wg506-kirmizi-erkek-saracli-casual-ayakkabi.jpeg?sd=5VK0P4DP</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Kırmızı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19047,6 +19317,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002588_wagoon-wg506-komur-erkek-saracli-casual-ayakkabi.jpeg?sd=WR1RVM8H</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19116,6 +19387,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002581_wagoon-wg506-siyah-erkek-saracli-casual-ayakkabi.jpeg?sd=46T77JM8</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19185,6 +19457,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0001727_wagoon-wg507-beyaz-erkek-ayakkabi.jpeg?sd=653TAQPE</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19254,6 +19527,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 1</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19323,6 +19597,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19392,6 +19667,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Camel</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19461,6 +19737,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 6</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19530,6 +19807,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>beyaz 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19599,6 +19877,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19668,6 +19947,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19737,6 +20017,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Gri</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19806,6 +20087,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Mavi</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19875,6 +20157,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0001733_wagoon-wg507-komur-sari-erkek-ayakkabi.jpeg?sd=WZJFYZI2</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Çok Renkli</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -19944,6 +20227,7 @@
     <Image4>https://www.bayiwagoon.com/image/catalog/wagoon/0002696_wagoon-wg507-siyah-erkek-ayakkabi.jpeg?sd=WPE31E7Q</Image4>
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Siyah</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20013,6 +20297,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>gri 2</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20082,6 +20367,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 5</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20151,6 +20437,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Sarı</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20220,6 +20507,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>bej</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20289,6 +20577,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Beyaz</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20358,6 +20647,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>Haki</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20427,6 +20717,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 4</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20496,6 +20787,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>kömür</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
@@ -20565,6 +20857,7 @@
     <Image4 />
     <Image5 />
     <Brand>SDSTEP</Brand>
+    <Color>siyah 3</Color>
     <Model />
     <Volume>1</Volume>
     <Variants>
