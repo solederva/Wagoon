@@ -26,10 +26,9 @@ FINAL_XML = "stokmont_final_sdstep_titles_buyingprice_barcode_pretty.xml"
 SOURCE_XML = "wagoon_source_pretty.xml"
 
 
-def load_source_categories() -> Dict[str, str]:
-    """wagoon_source_pretty.xml içinden ProductCode -> CategoryName/Path haritası çıkarır.
+def load_source_categories() -> Dict[str, Dict[str, str]]:
+    """wagoon_source_pretty.xml içinden ProductCode -> {'path': CategoryPath, 'name': CategoryName} haritası çıkarır.
 
-    Tercih: CategoryPath doluysa onu kullan, aksi halde CategoryName kullan.
     Anahtar: WG-* ProductCode
     """
     try:
@@ -38,25 +37,21 @@ def load_source_categories() -> Dict[str, str]:
         return {}
 
     root = tree.getroot()
-    mapping: Dict[str, str] = {}
+    mapping: Dict[str, Dict[str, str]] = {}
     for p in root.findall("Product"):
         code_el = p.find("ProductCode")
         if code_el is None or not (code_el.text and code_el.text.strip()):
             continue
         code = code_el.text.strip()
 
-        cat_val = None
         cats = p.find("Categories")
         if cats is not None:
             path_el = cats.find("CategoryPath")
             name_el = cats.find("CategoryName")
-            if path_el is not None and path_el.text and path_el.text.strip():
-                cat_val = path_el.text.strip()
-            elif name_el is not None and name_el.text and name_el.text.strip():
-                cat_val = name_el.text.strip()
-
-        if cat_val:
-            mapping[code] = cat_val
+            path_val = path_el.text.strip() if path_el is not None and path_el.text else ""
+            name_val = name_el.text.strip() if name_el is not None and name_el.text else ""
+            if path_val or name_val:
+                mapping[code] = {"path": path_val, "name": name_val}
     return mapping
 
 
@@ -88,26 +83,71 @@ def fix_categories():
 
         cat_el = p.find("Category")
         if cat_el is None:
-            # Edge case: Kategori elementi yoksa oluştur ve kaynaktan doldurmayı dene.
             cat_el = ET.SubElement(p, "Category")
 
         cleaned = clean_cdata_text(cat_el.text)
 
+        # Stokmont için MainCategory ve SubCategory ekle
+        main_cat_el = p.find("MainCategory")
+        if main_cat_el is None:
+            main_cat_el = ET.SubElement(p, "MainCategory")
+
+        sub_cat_el = p.find("SubCategory")
+        if sub_cat_el is None:
+            sub_cat_el = ET.SubElement(p, "SubCategory")
+
         if not cleaned:
             # Kaynaktan doldurmayı dene: SD- -> WG- çevir
             wg_code = code.replace("SD-", "WG-") if code else ""
-            src_val = src_categories.get(wg_code, "")
-            if src_val:
-                cat_el.text = src_val
+            src_data = src_categories.get(wg_code, {})
+            src_path = src_data.get("path", "")
+            src_name = src_data.get("name", "")
+            cat_val = src_path or src_name
+            if cat_val:
+                cat_el.text = cat_val
+                cleaned = cat_val
                 filled_from_src += 1
             else:
-                # Boş kalmasın diye son çare: mevcut unescaped metni ham koy (boş olabilir)
                 cat_el.text = cleaned
                 empty_after_clean += 1
         else:
             if cat_el.text != cleaned:
                 cat_el.text = cleaned
                 fixed_count += 1
+
+        # MainCategory ve SubCategory'yi ayarla
+        sub_cat = ""
+        if cleaned:
+            parts = cleaned.split("/", 1)  # İlk "/" ile ayır
+            main_cat = parts[0].strip()
+            sub_cat = parts[1].strip() if len(parts) > 1 else ""
+        else:
+            # Kaynaktan al
+            wg_code = code.replace("SD-", "WG-") if code else ""
+            src_data = src_categories.get(wg_code, {})
+            src_path = src_data.get("path", "")
+            if src_path:
+                parts = src_path.split("/", 1)
+                main_cat = parts[0].strip()
+                sub_cat = parts[1].strip() if len(parts) > 1 else ""
+            else:
+                main_cat = ""
+
+        # Description'dan alt kategori çıkar (ör. "Kategori: Erkek Ayakkabı")
+        desc_el = p.find("Description")
+        if desc_el is not None and desc_el.text:
+            desc_text = html.unescape(desc_el.text)  # CDATA içinden çıkar
+            if "Kategori:" in desc_text:
+                start = desc_text.find("Kategori:") + len("Kategori:")
+                end = desc_text.find("<br />", start)
+                if end == -1:
+                    end = len(desc_text)
+                sub_from_desc = desc_text[start:end].strip()
+                if sub_from_desc and not sub_cat:
+                    sub_cat = sub_from_desc
+
+        main_cat_el.text = main_cat
+        sub_cat_el.text = sub_cat
 
     # Pretty print (Python 3.9+)
     try:
