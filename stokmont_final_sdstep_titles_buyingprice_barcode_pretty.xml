@@ -18,6 +18,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-500-BEYAZ</VariantCode>
@@ -163,6 +164,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-500-HAKİ</VariantCode>
@@ -308,6 +310,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-500-MOR</VariantCode>
@@ -453,6 +456,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-500-PEMBE</VariantCode>
@@ -598,6 +602,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-500-SİYAH</VariantCode>
@@ -743,6 +748,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-01-BEYAZ-DÜZ</VariantCode>
@@ -822,6 +828,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-01-KÖMÜR-DLK</VariantCode>
@@ -901,6 +908,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-01-KÖMÜR</VariantCode>
@@ -980,6 +988,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-01-KÖMÜR-KURUKAFA</VariantCode>
@@ -1059,6 +1068,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-01-SİYAH-DLK</VariantCode>
@@ -1138,6 +1148,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-01-SİYAH-BEYAZ</VariantCode>
@@ -1228,6 +1239,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-010-BEYAZ</VariantCode>
@@ -1307,6 +1319,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-010-GRİ-CİLT</VariantCode>
@@ -1386,6 +1399,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-010-HAKİ</VariantCode>
@@ -1465,6 +1479,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-010-KÖMÜR-CİLT</VariantCode>
@@ -1544,6 +1559,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-010-LACİVERT</VariantCode>
@@ -1623,6 +1639,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-010-SİYAH-CİLT</VariantCode>
@@ -1702,6 +1719,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-BEYAZ-KIRMIZI</VariantCode>
@@ -1781,6 +1799,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-BEYAZ-KÖMÜR</VariantCode>
@@ -1860,6 +1879,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-BEYAZ-SARI</VariantCode>
@@ -1939,6 +1959,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-BEYAZ-TABA</VariantCode>
@@ -2018,6 +2039,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-GRİ-SÜET</VariantCode>
@@ -2097,6 +2119,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-HAKİ-SÜET</VariantCode>
@@ -2176,6 +2199,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-KIRMIZI-SÜET</VariantCode>
@@ -2255,6 +2279,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-KÖMÜR</VariantCode>
@@ -2334,6 +2359,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-KÖMÜR-SÜET</VariantCode>
@@ -2413,6 +2439,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-MAVİ-SÜET</VariantCode>
@@ -2492,6 +2519,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-011-TABA-SÜET</VariantCode>
@@ -2571,6 +2599,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-012-BEJ-KÖMÜR-SÜET</VariantCode>
@@ -2650,6 +2679,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-012-BEYAZ-PARASÜT</VariantCode>
@@ -2729,6 +2759,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-012-GRİ-KÖMÜR-SÜET</VariantCode>
@@ -2808,6 +2839,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-012-GRİ-SÜET</VariantCode>
@@ -2887,6 +2919,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-012-KÖMÜR</VariantCode>
@@ -2966,6 +2999,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-012-SİYAH</VariantCode>
@@ -3045,6 +3079,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-013-SİYAH</VariantCode>
@@ -3124,6 +3159,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-013-TABA</VariantCode>
@@ -3203,6 +3239,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-015-BEYAZ</VariantCode>
@@ -3282,6 +3319,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-015-GRİ</VariantCode>
@@ -3361,6 +3399,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-015-HAKİ</VariantCode>
@@ -3440,6 +3479,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-015-LACİ</VariantCode>
@@ -3519,6 +3559,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-015-SİYAH</VariantCode>
@@ -3598,6 +3639,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-015-TABA</VariantCode>
@@ -3677,6 +3719,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-016-BEJ</VariantCode>
@@ -3756,6 +3799,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-016-BEYAZ</VariantCode>
@@ -3835,6 +3879,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-016-GRİ</VariantCode>
@@ -3914,6 +3959,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-016-KÖMÜR-RUGAN</VariantCode>
@@ -3993,6 +4039,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-016-KÖMÜR</VariantCode>
@@ -4072,6 +4119,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-016-SİYAH</VariantCode>
@@ -4151,6 +4199,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-017-ACIK-ASKERİ</VariantCode>
@@ -4230,6 +4279,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-017-BEYAZ-ASKERİ</VariantCode>
@@ -4309,6 +4359,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-017-BEYAZ</VariantCode>
@@ -4388,6 +4439,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-017-DAMALI</VariantCode>
@@ -4467,6 +4519,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-017-GRİ-SİYAH</VariantCode>
@@ -4546,6 +4599,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-017-KÖMÜR</VariantCode>
@@ -4625,6 +4679,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-017-KOYU-ASKERİ</VariantCode>
@@ -4704,6 +4759,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-018-BEYAZ</VariantCode>
@@ -4783,6 +4839,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-018-BUZ-MAVİ</VariantCode>
@@ -4862,6 +4919,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-018-GRİ-KOT</VariantCode>
@@ -4941,6 +4999,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-018-KÖMÜR</VariantCode>
@@ -5020,6 +5079,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-018-KOYU-MAVİ</VariantCode>
@@ -5099,6 +5159,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-018-SİYAH</VariantCode>
@@ -5178,6 +5239,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-019-BEJ</VariantCode>
@@ -5257,6 +5319,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-019-BEYAZ</VariantCode>
@@ -5336,6 +5399,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-019-GRİ-SİYAH</VariantCode>
@@ -5415,6 +5479,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-019-GRİ</VariantCode>
@@ -5494,6 +5559,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-019-HAKİ</VariantCode>
@@ -5573,6 +5639,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-019-SİYAH-BEYAZ</VariantCode>
@@ -5652,6 +5719,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-019-SİYAH</VariantCode>
@@ -5731,6 +5799,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-021-SİYAH-BEYAZ</VariantCode>
@@ -5810,6 +5879,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-022-BEYAZ</VariantCode>
@@ -5889,6 +5959,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-022-BEYAZ-KÖMÜR</VariantCode>
@@ -5968,6 +6039,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-022-BEYAZ-SİYAH</VariantCode>
@@ -6047,6 +6119,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-022-KÖMÜR</VariantCode>
@@ -6126,6 +6199,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-022-SİYAH</VariantCode>
@@ -6205,6 +6279,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-022-TABA</VariantCode>
@@ -6284,6 +6359,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-023-GRİ</VariantCode>
@@ -6363,6 +6439,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-023-HAKİ</VariantCode>
@@ -6442,6 +6519,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-023-KÖMÜR</VariantCode>
@@ -6521,6 +6599,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-023-LACİ</VariantCode>
@@ -6600,6 +6679,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-023-SİYAH</VariantCode>
@@ -6679,6 +6759,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-023-TABA</VariantCode>
@@ -6758,6 +6839,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-025-KÖMÜR</VariantCode>
@@ -6837,6 +6919,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-025-SİYAH</VariantCode>
@@ -6916,6 +6999,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-025-TABA</VariantCode>
@@ -6995,6 +7079,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-026-BEYAZ</VariantCode>
@@ -7074,6 +7159,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-026-KÖMÜR</VariantCode>
@@ -7153,6 +7239,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-026-SİYAH</VariantCode>
@@ -7232,6 +7319,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-026-TABA</VariantCode>
@@ -7311,6 +7399,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-027-BEYAZ-SİYAH</VariantCode>
@@ -7390,6 +7479,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-027-KÖMÜR-BEYAZ</VariantCode>
@@ -7469,6 +7559,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-027-KÖMÜR</VariantCode>
@@ -7548,6 +7639,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-027-SİYAHBYZ</VariantCode>
@@ -7627,6 +7719,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-028-BEYAZ</VariantCode>
@@ -7706,6 +7799,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-028-KÖMÜR</VariantCode>
@@ -7785,6 +7879,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-028-SİYAH</VariantCode>
@@ -7864,6 +7959,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-029-BEYAZ-KÖMÜR</VariantCode>
@@ -7943,6 +8039,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-029-KÖMÜR-BEYAZ</VariantCode>
@@ -8022,6 +8119,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-029-KÖMÜR</VariantCode>
@@ -8101,6 +8199,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-029-KÖMÜR-KIRMIZI</VariantCode>
@@ -8180,6 +8279,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-029-KÖMÜR-SARI</VariantCode>
@@ -8259,6 +8359,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-029-BEYAZ</VariantCode>
@@ -8338,6 +8439,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-029-SİYAHBEYAZ</VariantCode>
@@ -8417,6 +8519,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-BEYAZt</VariantCode>
@@ -8496,6 +8599,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-GRİ</VariantCode>
@@ -8575,6 +8679,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-HAKİt</VariantCode>
@@ -8654,6 +8759,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-KÖMÜRt</VariantCode>
@@ -8733,6 +8839,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-LACİ</VariantCode>
@@ -8812,6 +8919,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-SİYAHt</VariantCode>
@@ -8891,6 +8999,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-TABAt</VariantCode>
@@ -8970,6 +9079,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-03-TABA-KÖMÜR</VariantCode>
@@ -9049,6 +9159,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-032-BEYAZY</VariantCode>
@@ -9128,6 +9239,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-032-GRİY</VariantCode>
@@ -9207,6 +9319,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-032-HAKİY</VariantCode>
@@ -9286,6 +9399,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-032-KÖMÜRY</VariantCode>
@@ -9365,6 +9479,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-032-SİYAHY</VariantCode>
@@ -9444,6 +9559,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-032-TABAY</VariantCode>
@@ -9523,6 +9639,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-033-KÖMÜRy</VariantCode>
@@ -9602,6 +9719,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-033-TABA</VariantCode>
@@ -9681,6 +9799,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-033-TABA-SİYAHy</VariantCode>
@@ -9760,6 +9879,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-033-KÖMÜR-KIRMIZI</VariantCode>
@@ -9839,6 +9959,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-033-SİYAHy</VariantCode>
@@ -9918,6 +10039,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-035-BEYAZ</VariantCode>
@@ -9997,6 +10119,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-035-KÖMÜR-BEYAZ</VariantCode>
@@ -10076,6 +10199,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-035-KÖMÜR</VariantCode>
@@ -10155,6 +10279,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-035-KÖMÜR-RUGAN</VariantCode>
@@ -10234,6 +10359,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-035-SİYAH</VariantCode>
@@ -10313,6 +10439,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-035-TABA</VariantCode>
@@ -10392,6 +10519,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-036-BEYAZ</VariantCode>
@@ -10471,6 +10599,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-036-KÖMÜR</VariantCode>
@@ -10550,6 +10679,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-036-SİYAH</VariantCode>
@@ -10629,6 +10759,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-036-TABA</VariantCode>
@@ -10708,6 +10839,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-040-BEYAZ</VariantCode>
@@ -10787,6 +10919,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-040-BEYAZ-GRİ</VariantCode>
@@ -10866,6 +10999,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-040-BEYAZ-KIRMIZI</VariantCode>
@@ -10945,6 +11079,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-040-BEYAZ-SİYAH</VariantCode>
@@ -11024,6 +11159,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-040-KÖMÜR</VariantCode>
@@ -11103,6 +11239,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-040-SİYAH</VariantCode>
@@ -11182,6 +11319,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-040-SİYAHKURUKAFA</VariantCode>
@@ -11261,6 +11399,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-047-BEYAZ</VariantCode>
@@ -11340,6 +11479,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-047-KÖMÜR</VariantCode>
@@ -11419,6 +11559,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-047-SİYAH</VariantCode>
@@ -11498,6 +11639,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-049-BEYAZ-DÜZ</VariantCode>
@@ -11577,6 +11719,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-049-SİYAH-DÜZ</VariantCode>
@@ -11656,6 +11799,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-050-BEYAZ</VariantCode>
@@ -11735,6 +11879,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-050-KÖMÜR</VariantCode>
@@ -11814,6 +11959,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-050-SİYAH</VariantCode>
@@ -11893,6 +12039,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-060-BEJ</VariantCode>
@@ -11972,6 +12119,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-060-BEYAZ</VariantCode>
@@ -12051,6 +12199,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-060-GRİ</VariantCode>
@@ -12130,6 +12279,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-060-KÖMÜR</VariantCode>
@@ -12209,6 +12359,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-060-SİYAH</VariantCode>
@@ -12288,6 +12439,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-061-BEJ</VariantCode>
@@ -12367,6 +12519,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-061-BEYAZ</VariantCode>
@@ -12446,6 +12599,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-061-GRİ</VariantCode>
@@ -12525,6 +12679,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-061-KÖMÜR</VariantCode>
@@ -12604,6 +12759,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-061-SİYAH</VariantCode>
@@ -12683,6 +12839,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-062-BEJ</VariantCode>
@@ -12762,6 +12919,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-062-BEYAZ-SİYAH</VariantCode>
@@ -12841,6 +12999,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-062-BEYAZ</VariantCode>
@@ -12920,6 +13079,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-062-GRİ</VariantCode>
@@ -12999,6 +13159,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-062-KÖMÜR-MAVİ</VariantCode>
@@ -13078,6 +13239,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-062-KÖMÜR</VariantCode>
@@ -13157,6 +13319,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-062-SİYAH-BEYAZ</VariantCode>
@@ -13236,6 +13399,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-063-BEJ-SAX</VariantCode>
@@ -13315,6 +13479,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-063-BEYAZ-FÜME</VariantCode>
@@ -13394,6 +13559,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-063-BEYAZ-KIRMIZI</VariantCode>
@@ -13473,6 +13639,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-063-BEYAZ</VariantCode>
@@ -13552,6 +13719,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-063-KÖMÜR-FÜME</VariantCode>
@@ -13631,6 +13799,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-063-KÖMÜR</VariantCode>
@@ -13710,6 +13879,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-07-BEYAZ</VariantCode>
@@ -13800,6 +13970,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-07-KÖMÜR</VariantCode>
@@ -13890,6 +14061,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-07-LACİ</VariantCode>
@@ -13980,6 +14152,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-07-SARI-SİYAH</VariantCode>
@@ -14059,6 +14232,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-07-SİYAH</VariantCode>
@@ -14149,6 +14323,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-07-TABA</VariantCode>
@@ -14228,6 +14403,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-08-BEYAZ</VariantCode>
@@ -14307,6 +14483,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-08-GRİ</VariantCode>
@@ -14386,6 +14563,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-08-KÖMÜR-DÜZ</VariantCode>
@@ -14465,6 +14643,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-08-SİYAH</VariantCode>
@@ -14544,6 +14723,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-08-TABA</VariantCode>
@@ -14623,6 +14803,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-08-TABA-KÖMÜR</VariantCode>
@@ -14702,6 +14883,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-BEYAZ-CİLT</VariantCode>
@@ -14781,6 +14963,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-BEYAZ-RUGAN</VariantCode>
@@ -14860,6 +15043,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-BEYAZ-SİYAH</VariantCode>
@@ -14939,6 +15123,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-KÖMÜR-CİLT</VariantCode>
@@ -15018,6 +15203,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-KÖMÜR-RUGAN</VariantCode>
@@ -15097,6 +15283,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-SİYAH-CİLT</VariantCode>
@@ -15176,6 +15363,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-SİYAH-RUGAN</VariantCode>
@@ -15255,6 +15443,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-TABA</VariantCode>
@@ -15334,6 +15523,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-094-TABA-SİYAH</VariantCode>
@@ -15413,6 +15603,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-095-BEYAZ</VariantCode>
@@ -15492,6 +15683,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-095-BEYAZ-SAX-BEYAZ</VariantCode>
@@ -15571,6 +15763,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-095-BEYAZ-SAX</VariantCode>
@@ -15650,6 +15843,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-095-BEYAZ-SİYAH</VariantCode>
@@ -15729,6 +15923,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-095-KÖMÜR</VariantCode>
@@ -15808,6 +16003,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-095-SİYAH-BEYAZ</VariantCode>
@@ -15887,6 +16083,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-096-BEJ</VariantCode>
@@ -15966,6 +16163,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-096-GRİ</VariantCode>
@@ -16045,6 +16243,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-096-HAKİ</VariantCode>
@@ -16124,6 +16323,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-096-KÖMÜR</VariantCode>
@@ -16203,6 +16403,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-096-TABA</VariantCode>
@@ -16282,6 +16483,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-103-BEJ</VariantCode>
@@ -16383,6 +16585,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-103-TABA</VariantCode>
@@ -16484,6 +16687,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-160-BEJ</VariantCode>
@@ -16563,6 +16767,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-160-BEYAZ</VariantCode>
@@ -16642,6 +16847,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-160-BEYAZ-SİYAH</VariantCode>
@@ -16721,6 +16927,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-160-MAVİ</VariantCode>
@@ -16800,6 +17007,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-160-SARI</VariantCode>
@@ -16879,6 +17087,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-160-SİYAH</VariantCode>
@@ -16958,6 +17167,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-160-YESİL</VariantCode>
@@ -17037,6 +17247,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-161-BEYAZ-RUGAN</VariantCode>
@@ -17116,6 +17327,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-161-KÖMÜR-RUGAN</VariantCode>
@@ -17195,6 +17407,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-161-KÖMÜR-SÜET</VariantCode>
@@ -17274,6 +17487,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-161-SİYAH-RUGAN</VariantCode>
@@ -17353,6 +17567,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-161-SİYAH-SÜET</VariantCode>
@@ -17432,6 +17647,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-161-TABA-SÜET</VariantCode>
@@ -17511,6 +17727,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-162-BEYAZ-GRİ</VariantCode>
@@ -17590,6 +17807,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-162-BEYAZ</VariantCode>
@@ -17669,6 +17887,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-162-BEYAZ-SAX</VariantCode>
@@ -17748,6 +17967,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-162-BEYAZ-SİYAH</VariantCode>
@@ -17827,6 +18047,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-162-KÖMÜR-BEYAZ</VariantCode>
@@ -17906,6 +18127,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-162-KÖMÜR-BEYAZ-RUGAN</VariantCode>
@@ -17985,6 +18207,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-162-KÖMÜR</VariantCode>
@@ -18064,6 +18287,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-202-BEYAZ-GRİt</VariantCode>
@@ -18143,6 +18367,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-202-KIRMIZIt</VariantCode>
@@ -18222,6 +18447,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-205-KIRMIZIt</VariantCode>
@@ -18301,6 +18527,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-220-BEYAZ</VariantCode>
@@ -18380,6 +18607,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-220-GÜMÜŞ</VariantCode>
@@ -18459,6 +18687,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-220-KÖMÜR</VariantCode>
@@ -18538,6 +18767,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-300-BEJ</VariantCode>
@@ -18628,6 +18858,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-300-GRİ</VariantCode>
@@ -18718,6 +18949,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-300-TABA</VariantCode>
@@ -18808,6 +19040,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-301-BEYAZ</VariantCode>
@@ -18887,6 +19120,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-301-BEYAZ-MAVİ</VariantCode>
@@ -18966,6 +19200,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-301-BEYAZ-SİYAH</VariantCode>
@@ -19045,6 +19280,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-301-KÖMÜR-BEYAZ</VariantCode>
@@ -19124,6 +19360,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-301-KÖMÜR</VariantCode>
@@ -19203,6 +19440,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-301-KÖMÜR-MAVİ</VariantCode>
@@ -19282,6 +19520,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-COK-BOYALI</VariantCode>
@@ -19361,6 +19600,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-DERGİ</VariantCode>
@@ -19440,6 +19680,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-KÖMÜR</VariantCode>
@@ -19519,6 +19760,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-SARI-COK-BOYALI</VariantCode>
@@ -19598,6 +19840,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-SARI-BOYALI</VariantCode>
@@ -19677,6 +19920,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-SİYAH-BOYALI</VariantCode>
@@ -19756,6 +20000,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-YENİ-KURUKAFAt</VariantCode>
@@ -19846,6 +20091,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-SİYAH</VariantCode>
@@ -19925,6 +20171,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-TABA</VariantCode>
@@ -20004,6 +20251,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-TABA-SİYAH</VariantCode>
@@ -20083,6 +20331,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-501-YESİL-BOYALI</VariantCode>
@@ -20162,6 +20411,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-502-BEYAZ</VariantCode>
@@ -20252,6 +20502,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-BEJ</VariantCode>
@@ -20331,6 +20582,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-BEYAZ</VariantCode>
@@ -20410,6 +20662,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-BORDO</VariantCode>
@@ -20489,6 +20742,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-GRİ</VariantCode>
@@ -20568,6 +20822,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-GRİ-KÖMÜR</VariantCode>
@@ -20647,6 +20902,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-KÖMÜR</VariantCode>
@@ -20726,6 +20982,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-KOT</VariantCode>
@@ -20805,6 +21062,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-LACİVERT</VariantCode>
@@ -20884,6 +21142,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-503-SİYAH</VariantCode>
@@ -20963,6 +21222,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-504-KÖMÜR</VariantCode>
@@ -21042,6 +21302,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-504-SİYAH</VariantCode>
@@ -21121,6 +21382,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-505-BEYAZ-TRT</VariantCode>
@@ -21200,6 +21462,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-505-GRİ-TRT</VariantCode>
@@ -21279,6 +21542,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-505-HAKİ-TRT</VariantCode>
@@ -21358,6 +21622,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-505-KMR-TRT</VariantCode>
@@ -21437,6 +21702,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-505-SİYAH-TRTt</VariantCode>
@@ -21516,6 +21782,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-505-TABA-TRTt</VariantCode>
@@ -21595,6 +21862,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-505-TABA-KÖMÜR-TRT</VariantCode>
@@ -21674,6 +21942,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-506-BEYAZ</VariantCode>
@@ -21753,6 +22022,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-506-KIRMIZI</VariantCode>
@@ -21832,6 +22102,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-506-KÖMÜR</VariantCode>
@@ -21911,6 +22182,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-506-SİYAH</VariantCode>
@@ -21990,6 +22262,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-BEYAZ</VariantCode>
@@ -22069,6 +22342,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-BEYAZ-GRİ</VariantCode>
@@ -22148,6 +22422,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-BEYAZ-MAVİ</VariantCode>
@@ -22227,6 +22502,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-BEYAZ-SARI</VariantCode>
@@ -22306,6 +22582,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-BEYAZ-SİYAH-BEYAZ</VariantCode>
@@ -22385,6 +22662,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-BEYAZ-SİYAH</VariantCode>
@@ -22464,6 +22742,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-KÖMÜR-BEYAZ</VariantCode>
@@ -22543,6 +22822,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-KÖMÜR</VariantCode>
@@ -22622,6 +22902,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-KÖMÜR-GRİ</VariantCode>
@@ -22701,6 +22982,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-KÖMÜR-MAVİ</VariantCode>
@@ -22780,6 +23062,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-KÖMÜR-SARI</VariantCode>
@@ -22859,6 +23142,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-SİYAHt</VariantCode>
@@ -22938,6 +23222,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-SİYAH-GRİ</VariantCode>
@@ -23017,6 +23302,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-SİYAH-MAVİ</VariantCode>
@@ -23096,6 +23382,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-507-SİYAH-SARI</VariantCode>
@@ -23175,6 +23462,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-508-BEJ</VariantCode>
@@ -23254,6 +23542,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-508-BEYAZ</VariantCode>
@@ -23333,6 +23622,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-508-HAKİ</VariantCode>
@@ -23412,6 +23702,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-508-KÖMÜR</VariantCode>
@@ -23491,6 +23782,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-508-KÖMÜR-SÜET</VariantCode>
@@ -23570,6 +23862,7 @@
     <Brand>SDSTEP</Brand>
     <Model />
     <Volume>1</Volume>
+    <Desi>2</Desi>
     <Variants>
       <Variant>
         <VariantCode>SD-508-SİYAH</VariantCode>
