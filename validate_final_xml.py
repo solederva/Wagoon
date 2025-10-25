@@ -14,10 +14,15 @@ def main():
     barcodes = set()
     for product in root.findall(".//Product"):
         product_count += 1
-        # 1. Zorunlu alanlar
-        for tag in ["ProductCode","ProductName","Quantity","Price","Currency","TaxRate","Barcode","Category","Description","Image1","Brand","Variants"]:
+        # 1. Zorunlu alanlar (text içeriği olan)
+        for tag in ["ProductCode","ProductName","Quantity","Price","Currency","TaxRate","Barcode","Category","Description","Image1","Brand"]:
             if product.find(tag) is None or not (product.find(tag).text or '').strip():
                 errors.append(f"Eksik alan: <{tag}> ürün: {ET.tostring(product, encoding='unicode')[:100]}")
+        
+        # Variants element varlık kontrolü (text değil, child element kontrolü)
+        variants_elem = product.find("Variants")
+        if variants_elem is None:
+            errors.append(f"Variants elementi yok: ürün: {pc}")
         # 2. Kodlar SD ile başlıyor mu?
         pc = product.findtext("ProductCode","")
         if not pc.startswith("SD-"):
