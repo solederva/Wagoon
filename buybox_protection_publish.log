@@ -1,0 +1,6 @@
+2025-10-30 10:26:33,375 - INFO - Buybox koruma dönüşümü başladı (publish-stokmont-xml)
+2025-10-30 10:26:33,536 - INFO - Dönüşüm tamamlandı: 293 ürün, 1509 varyant
+2025-10-30 10:26:33,536 - INFO - Duplicate barkod var mı? HAYIR
+2025-10-30 10:26:33,536 - INFO - Image1 değişti mi? EVET
+2025-10-30 10:26:33,536 - INFO - Brand beklenen mi? EVET: SDSTEP
+2025-10-30 10:26:33,536 - INFO - Title şablona uydu mu? EVET
